@@ -58,4 +58,4 @@ You should also have:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/github-profile-search.git
+   git clone https://github.com/kavinda9210/GithubProfileFinder
