@@ -1,6 +1,6 @@
 # 🔍 **GitHub Profile Search** 🌐
 
-In this files, we will be developing an interactive **GitHub Profile Search** application using **HTML**, **CSS**, and **JavaScript**. This application allows users to search for GitHub profiles by entering a username. After submitting, an API call is made to fetch and display the user's details, along with their repositories.
+In this project, we will be developing an interactive **GitHub Profile Search** application using **HTML**, **CSS**, and **JavaScript**. This application allows users to search for GitHub profiles by entering a username. After submitting, an API call is made to fetch and display the user's details, along with their repositories.
 
 ---
 
